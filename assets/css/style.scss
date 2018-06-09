@@ -1,4 +1,8 @@
 ---
 ---
 
+$header_background: {{ site.header.background | default: '#789' }};
+$header_color: {{ site.header.color | default: 'white' }};
+$footer_border: {{ site.footer.border | default: '1px solid #ddd' }};
+
 @import 'jekyll-theme-proxima';
