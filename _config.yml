@@ -3,6 +3,9 @@ description: Proxima is a theme for GitHub Pages, with GitHub-like styling
 theme: jekyll-theme-proxima
 google_analytics:
 
+plugins:
+- jekyll-seo-tag
+
 # header:
 #   background: '#789'
 #   color: white
