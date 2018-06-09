@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'jekyll-theme-proxima'
-  s.version       = '0.0.3'
+  s.version       = '0.1.0'
   s.license       = 'CC0-1.0'
   s.authors       = ['Danny Ben Shitrit']
   s.homepage      = 'https://github.com/DannyBen/proxima'
