@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.license       = 'CC0-1.0'
   s.authors       = ['Danny Ben Shitrit']
   s.homepage      = 'https://github.com/DannyBen/proxima'
-  s.summary       = 'Proxima is a Jekyll theme for GitHub Pages'
+  s.summary       = 'Proxima is a theme for GitHub Pages, with GitHub-like styling'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)

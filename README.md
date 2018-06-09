@@ -1,6 +1,7 @@
 # The Proxima theme
 
-Proxima is a Jekyll theme for GitHub Pages ([preview][1]).
+Proxima is a Jekyll theme for GitHub Pages, with customizable colors and
+GitHub-like styling ([preview][1]).
 
 ## Usage
 
