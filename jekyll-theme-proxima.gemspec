@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name          = 'jekyll-theme-proxima'
-  s.version       = '0.0.1'
+  s.version       = '0.0.2'
   s.license       = 'CC0-1.0'
   s.authors       = ['Danny Ben Shitrit']
   s.homepage      = 'https://github.com/DannyBen/proxima'
@@ -12,8 +12,8 @@ Gem::Specification.new do |s|
 
   s.platform = Gem::Platform::RUBY
   
-  s.add_runtime_dependency 'jekyll', '~> 3.8'
-  s.add_runtime_dependency 'jekyll-seo-tag', '~> 2.5'
+  s.add_runtime_dependency 'jekyll', '~> 3.5'
+  s.add_runtime_dependency 'jekyll-seo-tag', '~> 2.0'
   
   s.add_development_dependency 'runfile', '~> 0.10'
   s.add_development_dependency 'runfile-tasks', '~> 0.4'
