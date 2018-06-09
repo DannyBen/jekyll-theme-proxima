@@ -1,0 +1,11 @@
+title: Proxima theme
+description: Proxima is a clean, responsive theme for GitHub Pages.
+theme: jekyll-theme-proxima
+google_analytics:
+
+# header:
+#   background: '#789'
+#   color: white
+
+# footer:
+#   background: '#eee'

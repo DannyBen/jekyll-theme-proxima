@@ -1,0 +1,11 @@
+require "runfile-tasks"
+
+title   "Proxima Runfile"
+summary "Runfile tasks for building the Proxima gem"
+
+RunfileTasks::RubyGems.all 'jekyll-theme-proxima'
+
+help   "Run the Jekyll server"
+action :server, :s do |args|
+  run! "jekyll serve -H 0.0.0.0 -P 3000 -w --force_polling"
+end
