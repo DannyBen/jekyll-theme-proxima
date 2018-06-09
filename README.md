@@ -1,7 +1,9 @@
 # The Proxima theme
 
 Proxima is a Jekyll theme for GitHub Pages, with customizable colors and
-GitHub-like styling ([preview][1]).
+GitHub-like styling.
+
+[Preview Theme][1]
 
 ## Usage
 
@@ -10,7 +12,7 @@ To use the Proxima theme:
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    theme: jekyll-theme-proxima
+    remote_theme: dannyben/jekyll-theme-proxima
     ```
 
 2. Optionally, if you'd like to preview your site on your computer, add the 
@@ -101,6 +103,6 @@ proposing a change):
 
 
 
-[1]: http://dannyben.github.io/proxima
-[2]: https://github.com/dannyben/proxima/blob/master/_layouts/default.html
+[1]: http://dannyben.github.io/jekyll-theme-proxima
+[2]: https://github.com/dannyben/jekyll-theme-proxima/blob/master/_layouts/default.html
 [3]: https://jekyllrb.com/docs/variables/
