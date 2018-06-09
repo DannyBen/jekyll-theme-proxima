@@ -2,8 +2,8 @@
 {% assign header_background = site.header.background | default: '#789' -%}
 {% assign header_color = site.header.color | default: 'white' -%}
 {% assign header_style = "background: " | append: header_background | append: '; color: ' | append: header_color -%}
-{% assign footer_background = site.footer.background | default: '#e4e4e4' -%}
-{% assign footer_style = "background: " | append: footer_background -%}
+{% assign footer_border = site.footer.border | default: '1px solid #ccc' -%}
+{% assign footer_style = "border-top: " | append: footer_border -%}
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
