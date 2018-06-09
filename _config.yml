@@ -1,4 +1,4 @@
-title: Proxima theme
+title: Proxima Theme
 description: Proxima is a theme for GitHub Pages, with GitHub-like styling
 remote_theme: dannyben/jekyll-theme-proxima
 google_analytics:
@@ -6,9 +6,17 @@ google_analytics:
 plugins:
 - jekyll-seo-tag
 
+github:
+  is_project_page: true
+  repository_url: http://github.com/dannyben/jekyll-theme-proxima
+  owner_url: http://github.com/dannyben
+  owner_name: DannyBen
+  repository_name: jekyll-theme-proxima
+
 # header:
-#   background: '#789'
-#   color: white
+#   background: '#fda'
+#   color: black
 
 # footer:
-#   border: '1px solid #eee'
+#   border: '10px solid red'
+
