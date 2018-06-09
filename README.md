@@ -39,7 +39,7 @@ header:
   color: white
 
 footer:
-  background: '#eee'
+  border: '1px solid #eee'
 ```
 
 ### Stylesheet
